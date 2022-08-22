@@ -1,0 +1,4 @@
+/mnt/Grigorij/Programming/socow-vector-staf02/cmake-build-debug/CMakeFiles/tests.dir
+/mnt/Grigorij/Programming/socow-vector-staf02/cmake-build-debug/CMakeFiles/main.dir
+/mnt/Grigorij/Programming/socow-vector-staf02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/Grigorij/Programming/socow-vector-staf02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

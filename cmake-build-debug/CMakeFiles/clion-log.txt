@@ -1,0 +1,17 @@
+/snap/clion/203/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/203/bin/ninja/linux/ninja -DCMAKE_TOOLCHAIN_FILE=~/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /mnt/Grigorij/Programming/socow-vector-staf02 -B /mnt/Grigorij/Programming/socow-vector-staf02/cmake-build-debug
+-- Running vcpkg install
+Detecting compiler hash for triplet x64-linux...
+All requested packages are currently installed.
+Restored 0 packages from /home/staf02/.cache/vcpkg/archives in 3.444 us. Use --debug to see more details.
+
+Total elapsed time: 3.525 s
+
+The package gtest provides CMake targets:
+
+    find_package(GTest CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE GTest::gmock GTest::gtest GTest::gmock_main GTest::gtest_main)
+
+-- Running vcpkg install - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/Grigorij/Programming/socow-vector-staf02/cmake-build-debug
